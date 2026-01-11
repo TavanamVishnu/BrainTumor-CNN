@@ -26,6 +26,8 @@ This project demonstrates how **deep learning models** can assist medical profes
 ⚠️ *This project is for educational and research purposes only and is **not a medical diagnostic tool***.
 
 ---
+The dataset can be downloaded from the following source:
 
+➡️ **[Brain MRI Dataset – Download Link](https://drive.google.com/file/d/1b2s6z1tKRpqRjA44l8iQDWcfw8Q_m-sP/view?usp=sharing)**
 
 
